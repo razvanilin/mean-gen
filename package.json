@@ -1,0 +1,33 @@
+{
+  "name": "mean-gen",
+  "version": "0.0.1",
+  "description": "A modularized MEAN Stack generator that will enable your back-end NodeJs application to sit separately from your front-end Angular application",
+  "directories": {
+    "bin": "./bin"
+  },
+  "main": "./lib/mean-gen.js",
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mean",
+    "stack",
+    "generator",
+    "modular",
+    "nodejs",
+    "angular",
+    "express",
+    "mongo"
+  ],
+  "author": {
+    "email": "razvanilin@gmail.com",
+    "name": "Razvan Ilin"
+  },
+  "repository": "https://github.com/razvanilin/mean-gen.git",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "shelljs": "^0.5.3"
+  }
+}

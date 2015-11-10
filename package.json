@@ -25,7 +25,7 @@
     "name": "Razvan Ilin"
   },
   "repository": "https://github.com/razvanilin/mean-gen.git",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "minimist": "^1.2.0",
     "shelljs": "^0.5.3"

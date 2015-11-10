@@ -1,6 +1,6 @@
 {
   "name": "mean-gen",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A modularized MEAN Stack generator that will enable your back-end NodeJs application to sit separately from your front-end Angular application",
   "directories": {
     "bin": "./bin"

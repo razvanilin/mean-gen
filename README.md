@@ -22,13 +22,18 @@ Yeoman for easily creating routes in the angular application (not necessary)
 ```
 mkdir project_name
 cd project_name
-mean-gen
 ```
 
-This will download clone an existing copy of a skeleton application and install the local dependecies for you.
+Now use one of the options below
+
+`mean-gen -p simple` - Will generate a simple template for your project.
+
+`mean-gen -p user` - Will generate a more complex template for your project with a user login system.
+
+This will download clone an existing copy of a skeleton application and install the local dependencies for you.
 The cloned application will have basic User sign up, login and profile settings along with picture uploads.
 
-**More customisation comming soon including a clean project**
+**More customisation coming soon including a clean project**
 
 ## Run the application ##
 

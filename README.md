@@ -15,6 +15,7 @@ Grunt CLI and Bower
 MongoDB: https://www.mongodb.org/
 
 Yeoman for easily creating routes in the angular application (not necessary)
+
 `npm install -g yo generator-angular`
 
 ## Usage ##
@@ -30,7 +31,7 @@ Now use one of the options below
 
 `mean-gen -p user` - Will generate a more complex template for your project with a user login system.
 
-This will download clone an existing copy of a skeleton application and install the local dependencies for you.
+This will clone an existing skeleton application and install the local dependencies for you.
 The cloned application will have basic User sign up, login and profile settings along with picture uploads.
 
 **More customisation coming soon including a clean project**
